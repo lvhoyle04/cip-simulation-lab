@@ -6,7 +6,7 @@
 **Date:** 2026-06-26  
 
 ## 1. System Description & Purpose
-The OT-Defense-Sandbox is a containerized, container-orchestrated environment designed to emulate industrial control network segments. Its primary purpose is to research defensive security controls, validate configuration baselines, and automate compliance auditing for industrial-grade network nodes.
+The CIP/OT-Sandbox is a containerized, container-orchestrated environment designed to emulate industrial control network segments. Its primary purpose is to research defensive security controls, validate configuration baselines, and automate compliance auditing for industrial-grade network nodes.
 
 ## 2. Network Architecture & Segmentation
 The environment utilizes Docker-based containerization to simulate isolated network zones:
