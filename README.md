@@ -1,6 +1,6 @@
 # Critical Infrastructure Protection (CIP) & OT Security Portfolio
 
-**Maintained by:** [Your Name]  
+**Maintained by:** Lukas Hoyle  
 **Academic Institution:** Anderson University, SC | Cybersecurity Major (Rising Junior, 3.5 GPA)  
 **Target Milestone:** Coursework Completion (Fall 2027) -> Cleared Infrastructure Internship (Spring 2028)  
 **Career Focus:** National Security, Utility Protection, & Nuclear Sector Cyber Defense (Targeting Savannah River Site / DOE)
@@ -10,9 +10,10 @@
 ## 🎯 Professional Objectives & Credentials
 This repository serves as my public "proof of work" portfolio, demonstrating core competencies in securing Industrial Control Systems (ICS), Operational Technology (OT), and critical infrastructure assets before graduation. 
 
-*   **Summer 2026 Certification Pipeline:** 
+*   **Summer 2026 Certification/Membership Pipeline:** 
     *   CISA Industrial Control Systems (ICS) Security Framework Training
     *   FEMA Emergency Management Institute (EMI) Independent Study Series (Critical Infrastructure Security)
+    *   FBI InfraGard Membership Request Submitted, Approval Pending
 *   **Core Technical Competencies:** OT Network Segmentation, Compliance Architecture Mapping, Configuration Baseline Auditing, and Technical Security Writing.
 
 ---
