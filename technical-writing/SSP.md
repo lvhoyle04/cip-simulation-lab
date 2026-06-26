@@ -1,26 +1,28 @@
 # System Security Plan (SSP) 
 
-**System Name:** Upstate Substation Alpha (Fictional OT Environment)  
-**System Categorization:** HIGH Impact (FIPS 199)  
-**Operational Status:** Active Simulation  
+**System Name:** [Enter System/Lab Name]  
+**System Categorization:** [Enter Impact Level, e.g., HIGH/MODERATE/LOW]  
+**Operational Status:** [Enter Status, e.g., Active Simulation / Development]  
 
 ## 1. System Description & Purpose
-This system emulates a localized power distribution substation utilizing simulated Programmable Logic Controllers (PLCs) and remote terminal units. The purpose of this environment is to test configuration baselines, execute intermediate Python-based vulnerability scanners, and validate Electronic Security Perimeter (ESP) integrity without jeopardizing enterprise IT networks.
+[Provide a high-level overview of what this system does, what hardware/software it uses, and the specific business or educational purpose it serves.]
 
-## 2. Network Architecture & Segmentation (CIP-005)
-To ensure isolation from standard internet traffic, the architecture is segmented into three distinct zones:
-*   **Corporate IT Zone:** Standard internet-facing VLAN for general business operations.
-*   **Industrial DMZ:** Houses the data historians and patch management servers. Acts as the sole bridge between IT and OT.
-*   **Operational Technology (OT) Zone:** Air-gapped network segment containing the PLCs and critical control hardware. Strict Deny-All inbound firewall rules applied.
+## 2. Network Architecture & Segmentation
+[Describe how the network is physically and logically divided to protect critical assets. Detail the different zones and how traffic moves between them.]
+* **Corporate/External Zone:** [Description]
+* **DMZ / Intermediate Zone:** [Description]
+* **Restricted/OT Zone:** [Description]
 
-## 3. Baseline Security Controls (CIP-007)
+## 3. Baseline Security Controls
 ### 3.1 Ports and Services Management
-*   Only ports explicitly required for operations (e.g., Modbus TCP Port 502, DNP3 Port 20000) are enabled on the industrial hardware.
-*   Telnet (Port 23) and FTP (Port 21) are strictly disabled at the host level across all OT devices.
+* [List the specific ports that are explicitly allowed and why.]
+* [List the specific ports/services that are strictly disabled.]
 
 ### 3.2 Malicious Code Prevention
-*   Anti-malware signatures are updated manually via physical USB transfer to maintain the air-gap integrity.
-*   Continuous monitoring scripts audit the file integrity of all active logic controllers every 24 hours to detect unauthorized configuration changes.
+* [Explain how the system is protected against malware (e.g., antivirus, file integrity monitoring).]
+* [Explain how updates or patches are applied securely to the isolated environment.]
 
-## 4. Incident Response & Containment (CIP-008)
-In the event of anomalous network traffic detected within the OT Zone, the primary response action is the physical disconnection of the managed switch uplink to the DMZ. Logical containment protocols follow the standard CISA ICS playbooks to ensure malware cannot bridge the Electronic Security Perimeter.
+## 4. Incident Response & Containment
+[Detail the exact steps an engineer should take if unauthorized access or malware is detected within the restricted zones.]
+* **Detection:** [How is the anomaly spotted?]
+* **Containment:** [What physical or logical steps are taken to isolate the threat?]
