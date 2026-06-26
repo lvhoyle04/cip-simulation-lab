@@ -7,7 +7,8 @@ If you discover a security vulnerability within the scripts, automation tools, o
 Publicly disclosing vulnerabilities before they can be patched poses a risk to anyone utilizing these open-source references for their own educational or testing environments.
 
 ### Disclosure Process
-1. Email your findings to **[Your Email Address]**.
+1. Email your findings to **lhoyle.cip.security@gmail.com
+**.
 2. Include the steps to reproduce the vulnerability and a brief description of the potential impact.
 3. I take security seriously and aim to acknowledge all reports within 48 hours.
 
