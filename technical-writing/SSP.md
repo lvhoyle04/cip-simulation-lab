@@ -1,6 +1,6 @@
 # System Security Plan (SSP) 
 
-**System Name:** OT-Defense-Sandbox  
+**System Name:** CIP/OT-Sandbox  
 **Categorization:** MODERATE Impact  
 **Version:** 1.0  
 **Date:** 2026-06-26  
