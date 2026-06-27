@@ -7,14 +7,33 @@
 
 ---
 
-## 🎯 Professional Objectives & Credentials
-This repository serves as my public "proof of work" portfolio, demonstrating core competencies in securing Industrial Control Systems (ICS), Operational Technology (OT), and critical infrastructure assets before graduation. 
+## 📜 Professional Development & Certification Roadmap
 
-*   **Summer 2026 Certification/Membership Pipeline:** 
-    *   CISA Industrial Control Systems (ICS) Security Framework Training
-    *   FEMA Emergency Management Institute (EMI) Independent Study Series (Critical Infrastructure Security)
-    *   FBI InfraGard Membership Request Submitted, Approval Pending
-*   **Core Technical Competencies:** OT Network Segmentation, Compliance Architecture Mapping, Configuration Baseline Auditing, and Technical Security Writing.
+As part of my ongoing education and preparation for a cleared infrastructure protection role, I am actively completing the following federal and industry-standard training modules over the summer, as well as applying for one or more memberships with intelligence sharing organizations or major cybersecurity related groups. These courses and groups directly inform the architecture and defensive posture of this simulation lab.
+
+### 1. CISA Industrial Control Systems (ICS) Track
+Focusing on hands-on technical evaluation, defensive practices, and operational technology (OT) environment architectures.
+* [ ] **100W: Operational Security (OPSEC) for Control Systems**
+* [ ] **ICS300: Industrial Control Systems Cybersecurity Training**
+* [ ] **401V: Introduction to Control Systems Cybersecurity** — Focuses on analyzing and evaluating the cybersecurity posture of an ICS system within a simulated environment.
+
+### 2. FEMA Emergency Management Track
+Establishing foundational knowledge of federal incident command structures, administrative terminology, and institutional continuity.
+* [ ] **IS-100.c:** Introduction to the Incident Command System
+* [ ] **IS-700.b:** An Introduction to the National Incident Management System
+* [ ] **IS-1300.a:** Introduction to Continuity of Operations
+
+### 3. TEEX Operational Threat Defense
+Funded by DHS/FEMA, bridging technical defense with tactical emergency management.
+* [ ] **AWR169: Introduction to Cyber Incident Management** — Provides practical guidelines on responding to incidents effectively and efficiently as part of an incident response program.
+
+### 4. NIST Risk Management Framework (RMF)
+The open-access compliance blueprint for securing and monitoring federal and critical infrastructure data systems.
+* [ ] **NIST RMF Introductory Course** — Introduces key RMF publications for managing cybersecurity risk based directly on NIST special publications.
+
+### 5. Memberships/Intelligence Sharing Communities
+Organizations that allow for increased networking and communication with industry professionals and heightened access to courses and meetings.
+* [ ] **FBI InfraGard Program** - A partnership between the FBI and members of the private sector that facilitates the sharing of intelligence and information to help protect U.S. critical infrastructure from threats and attacks.
 
 ---
 
