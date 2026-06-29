@@ -13,15 +13,15 @@ As part of my ongoing education and preparation for a cleared infrastructure pro
 
 ### 1. CISA Industrial Control Systems (ICS) Track
 Focusing on hands-on technical evaluation, defensive practices, and operational technology (OT) environment architectures.
-* [ ] **100W: Operational Security (OPSEC) for Control Systems**
-* [ ] **ICS300: Industrial Control Systems Cybersecurity Training**
+* [x] **100W: Operational Security (OPSEC) for Control Systems**
+* [x] **ICS300: Industrial Control Systems Cybersecurity Training**
 * [ ] **401V: Introduction to Control Systems Cybersecurity** — Focuses on analyzing and evaluating the cybersecurity posture of an ICS system within a simulated environment.
 
 ### 2. FEMA Emergency Management Track
 Establishing foundational knowledge of federal incident command structures, administrative terminology, and institutional continuity.
-* [ ] **IS-100.c:** Introduction to the Incident Command System
+* [x] **IS-100.c:** Introduction to the Incident Command System
 * [ ] **IS-700.b:** An Introduction to the National Incident Management System
-* [ ] **IS-1300.a:** Introduction to Continuity of Operations
+* [x] **IS-1300.a:** Introduction to Continuity of Operations
 
 ### 3. TEEX Operational Threat Defense
 Funded by DHS/FEMA, bridging technical defense with tactical emergency management.
@@ -29,7 +29,7 @@ Funded by DHS/FEMA, bridging technical defense with tactical emergency managemen
 
 ### 4. NIST Risk Management Framework (RMF)
 The open-access compliance blueprint for securing and monitoring federal and critical infrastructure data systems.
-* [ ] **NIST RMF Introductory Course** — Introduces key RMF publications for managing cybersecurity risk based directly on NIST special publications.
+* [x] **NIST RMF Introductory Course** — Introduces key RMF publications for managing cybersecurity risk based directly on NIST special publications.
 
 ### 5. Memberships/Intelligence Sharing Communities
 Organizations that allow for increased networking and communication with industry professionals and heightened access to courses and meetings.
