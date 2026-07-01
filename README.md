@@ -7,6 +7,11 @@
 
 ---
 
+### 🏗️ Proposed Simulation Lab Architecture
+![CIP Lab Architecture](./cip-lab-architecture.drawio.png)
+
+---
+
 ## 📜 Professional Development & Certification Roadmap
 
 As part of my ongoing education and preparation for a cleared infrastructure protection role, I am actively completing the following federal and industry-standard training modules over the summer, as well as applying for one or more memberships with intelligence sharing organizations or major cybersecurity related groups. These courses and groups directly inform the architecture and defensive posture of this simulation lab.
