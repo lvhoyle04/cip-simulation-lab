@@ -54,11 +54,11 @@ This sandbox environment is organized modularly to match the data taxonomy used 
 ## ⚡ Milestone Goal: Independent Infrastructure Simulation Lab
 To transition this public portfolio from pure software modeling to live hardware emulation, I have established a funding milestone on **GitHub Sponsors**. 
 
-In high-consequence defense fields like the nuclear sector, testing malware payloads or executing intensive vulnerability scanning requires absolute isolation. This **$6,800 Gross ($5,000 Net) infrastructure milestone** funds the physical hardware dependencies needed to build an air-gapped local laboratory environment safely:
+In high-consequence defense fields like the nuclear sector, testing malware payloads or executing intensive vulnerability scanning requires absolute isolation. This $11,500 Gross infrastructure milestone funds the physical hardware dependencies needed to build an air-gapped local laboratory environment safely:
 
 *   **1x Compute Node (Dedicated Workstation):** Allocated to host local virtualized sub-stations and execute intensive data analytics.
-*   **2x Side-by-Side Monitoring Displays:** Essential for reviewing massive regulatory compliance frameworks while simultaneously tracking live terminal logs.
-*   **1x Managed Network Switch & Docking Hub:** To establish a physical segmentation boundary, ensuring zero risk to home or university networks.
+*   **Analysis Displays & Workspace Assets:** Essential for reviewing massive regulatory compliance frameworks while simultaneously tracking live terminal logs on a dual-screen setup.
+*   **Physical OT Routing & Power Infrastructure:** Managed switches, firewalls, and power backups to establish a physical segmentation boundary, ensuring zero risk to home or university networks.
 
 ### 🤝 Corporate Talent Scouting & Mentorship Tiers
 Sponsoring this milestone is a direct investment in upcoming, clearable defense talent. 
